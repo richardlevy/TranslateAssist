@@ -1,7 +1,7 @@
 # TranslateAssist
 A Java tool for merging iOS localization string files with Google Translate documents
 
-I know that you should use a professional translation service, but for those that want to use Google Translate, this tool automates the merging of translated strings (as opposed to cut & pasting an going mad).
+I know that you should use a professional translation service, but for those that want to use Google Translate, this tool automates the merging of translated strings (as opposed to cut & pasting and going mad).
 
 Because Google Translate no longer offers a free API for translation, this is a 3 stage process:
 
@@ -13,7 +13,7 @@ Because Google Translate no longer offers a free API for translation, this is a 
 TranslateAssist Localizable.strings
 ```
 
-This will create a file called Localizable.strings_for_translation.txt
+This will create a file called *Localizable.strings_for_translation.txt*
 
 ## Step 2 - Translate
 
@@ -30,6 +30,6 @@ This will create a file called Localizable.strings_for_translation.txt
 TranslateAssist Localizable.strings translated_strings.txt
 ```
 
-This will create a file called Localizable.strings_translated.txt containing the source from step 1 merged with the translations from step 2.
+This will create a file called *Localizable.strings_translated.txt* containing the source from step 1 merged with the translations from step 2.
 
 
