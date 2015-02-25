@@ -1,0 +1,200 @@
+//####ID:0
+320 kbps
+//####ID:1
+Directory
+//####ID:2
+Progress - 
+//####ID:3
+Subsonic password
+//####ID:4
+Direct download over cellular
+//####ID:5
+Artist
+//####ID:6
+Server Settings
+//####ID:7
+888
+//####ID:8
+x of y
+//####ID:9
+Version 8
+//####ID:10
+Video title
+//####ID:11
+Artist
+//####ID:12
+Size
+//####ID:13
+--:--
+//####ID:14
+AVSub (formerly CarSub) is a Subsonic music & video streamer with multiple playback interfaces - regular buttons or gestures.
+//####ID:15
+Read from cache
+//####ID:16
+Video Settings
+//####ID:17
+Visit the AVSub website for guides, FAQs and more fun details!
+//####ID:18
+General Settings
+//####ID:19
+Detail
+//####ID:20
+Cache while playing
+//####ID:21
+Video title
+//####ID:22
+Album - artist
+//####ID:23
+Artist
+//####ID:24
+Allow direct download caching
+//####ID:25
+Pause when Bluetooth/headphone disconnects
+//####ID:26
+Song count
+//####ID:27
+Transcode to MP3
+//####ID:28
+Artist
+//####ID:29
+Max audio bitrate
+//####ID:30
+AVSub requires a licensed version of SubSonic.
+//####ID:31
+Get Albums from current music folder (V5.1+)
+//####ID:32
+Audio File
+//####ID:33
+512 MB
+//####ID:34
+Album
+//####ID:35
+Cache art (recommended)
+//####ID:36
+Playlist
+//####ID:37
+Subsonic username
+//####ID:38
+Enable table index letters
+//####ID:39
+CLEAR CACHE
+//####ID:40
+Duration
+//####ID:41
+Playlists
+//####ID:42
+Cellular max bitrate
+//####ID:43
+888
+//####ID:44
+320 kbps
+//####ID:45
+Play All
+//####ID:46
+Connect
+//####ID:47
+Upgrade
+//####ID:48
+--:--
+//####ID:49
+Reset
+//####ID:50
+Videos
+//####ID:51
+Search
+//####ID:52
+Use ignoredArticles
+//####ID:53
+AbyghXIL
+//####ID:54
+88
+//####ID:55
+About / Upgrade
+//####ID:56
+Cache Settings
+//####ID:57
+88
+//####ID:58
+WiFi max bitrate
+//####ID:59
+Long-press to download
+//####ID:60
+Connect to the internet to access the App Store
+//####ID:61
+Album
+//####ID:62
+Reverse playback gestures
+//####ID:63
+Get Albums...
+//####ID:64
+Directory
+//####ID:65
+AbyghXIL
+//####ID:66
+AbyghXIL
+//####ID:67
+Button controls on Now-Playing
+//####ID:68
+--:--
+//####ID:69
+Song count
+//####ID:70
+Audio File
+//####ID:71
+Restore Purchases
+//####ID:72
+http[s]://<Subsonic host addr>
+//####ID:73
+Random...
+//####ID:74
+Scrobble to Last.FM
+//####ID:75
+Written By Richard Levy
+//####ID:76
+AbyghXIL
+//####ID:77
+Directory
+//####ID:78
+Trackname
+//####ID:79
+Master
+//####ID:80
+Trackname
+//####ID:81
+Video upgrade purchased
+//####ID:82
+FakeButton4Segue
+//####ID:83
+Cache
+//####ID:84
+Upgrade AVSub with full Subsonic video streaming and video caching capabilities.
+//####ID:85
+Music Index
+//####ID:86
+Playlist
+//####ID:87
+Master
+//####ID:88
+320 kbps
+//####ID:89
+88
+//####ID:90
+ID3 tags instead of folders
+//####ID:91
+Random Songs from current music folder
+//####ID:92
+Duration
+//####ID:93
+Settings
+//####ID:94
+Album - artist
+//####ID:95
+AbyghXIL
+//####ID:96
+Downloading
+//####ID:97
+Directory
+//####ID:98
+--:--
+//####ID:99
+Shuffle

@@ -1,0 +1,8 @@
+package model;
+
+public enum AppMode {
+	UNKNOWN,
+	GENERATE_TRANSLATION_SOURCE,
+	CREATE_TRANSLATED_OUTPUT;
+	
+}

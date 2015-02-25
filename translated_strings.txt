@@ -1,0 +1,200 @@
+// #### ID: 0
+320 kbps
+// #### ID: 1
+Directorio
+// #### ID: 2
+Progreso -
+// #### ID: 3
+Contraseña Subsonic
+// #### ID: 4
+Descarga directa por celular
+// #### ID: 5
+Artista
+// #### ID: 6
+Configuración del servidor
+// #### ID: 7
+888
+// #### ID: 8
+x de y
+// #### ID: 9
+Versión 8
+// #### ID: 10
+Título del vídeo
+// #### ID: 11
+Artista
+// #### ID: 12
+Tamaño
+// #### ID: 13
+-: -
+// #### ID: 14
+AVSub (anteriormente CarSub) es una música y video streamer subsónico con múltiples interfaces de reproducción - botones regulares o gestos.
+// #### ID: 15
+Leer desde la memoria caché
+// #### ID: 16
+Ajustes de vídeo
+// #### ID: 17
+Visite el sitio web AVSub para guías, preguntas frecuentes y detalles más divertidos!
+// #### ID: 18
+Configuración general
+// #### ID: 19
+Detalle
+// #### ID: 20
+Caché mientras se reproduce
+// #### ID: 21
+Título del vídeo
+// #### ID: 22
+Álbum - artista
+// #### ID: 23
+Artista
+// #### ID: 24
+Permitir el almacenamiento en caché descarga directa
+// #### ID: 25
+Pausa cuando se desconecta / auriculares Bluetooth
+// #### ID: 26
+Recuento Canción
+// #### ID: 27
+Transcodificación a MP3
+// #### ID: 28
+Artista
+// #### ID: 29
+Max bitrate de audio
+// #### ID: 30
+AVSub requiere una versión con licencia de SubSonic.
+// #### ID: 31
+Obtener los álbumes de la carpeta de música actual (V5.1 +)
+// #### ID: 32
+Archivo de audio
+// #### ID: 33
+512 MB
+// #### ID: 34
+Álbum
+// #### ID: 35
+Arte caché (recomendado)
+// #### ID: 36
+Playlist
+// #### ID: 37
+Nombre de usuario Subsonic
+// #### ID: 38
+Habilitar letras índice mesa
+// #### ID: 39
+Borrar caché
+// #### ID: 40
+Duración
+// #### ID: 41
+Listas de reproducción
+// #### ID: 42
+Bitrate máximo Celular
+// #### ID: 43
+888
+// #### ID: 44
+320 kbps
+// #### ID: 45
+Reproducir todas
+// #### ID: 46
+Conectar
+// #### ID: 47
+Modernización
+// #### ID: 48
+-: -
+// #### ID: 49
+Reajustar
+// #### ID: 50
+Videos
+// #### ID: 51
+Búsqueda
+// #### ID: 52
+Uso ignoredArticles
+// #### ID: 53
+AbyghXIL
+// #### ID: 54
+88
+// #### ID: 55
+Acerca de / Upgrade
+// #### ID: 56
+Configuración de caché
+// #### ID: 57
+88
+// #### ID: 58
+WiFi max bitrate
+// #### ID: 59
+Largo de prensa para descargar
+// #### ID: 60
+Conéctese a Internet para acceder a la App Store
+// #### ID: 61
+Álbum
+// #### ID: 62
+Gestos reproducción inversa
+// #### ID: 63
+Obtener los álbumes ...
+// #### ID: 64
+Directorio
+// #### ID: 65
+AbyghXIL
+// #### ID: 66
+AbyghXIL
+// #### ID: 67
+Controles Button en Now-playing
+// #### ID: 68
+-: -
+// #### ID: 69
+Recuento Canción
+// #### ID: 70
+Archivo de audio
+// #### ID: 71
+Restaurar Compras
+// #### ID: 72
+http [s]: // <addr anfitrión Subsonic>
+// #### ID: 73
+Al azar ...
+// #### ID: 74
+Scrobbling a Last.FM
+// #### ID: 75
+Escrito por Richard Levy
+// #### ID: 76
+AbyghXIL
+// #### ID: 77
+Directorio
+// #### ID: 78
+Trackname
+// #### ID: 79
+Maestro
+// #### ID: 80
+Trackname
+// #### ID: 81
+Actualización de vídeo comprado
+// #### ID: 82
+FakeButton4Segue
+// #### ID: 83
+Cache
+// #### ID: 84
+Actualiza AVSub con capacidades de streaming de vídeo y almacenamiento en caché de vídeo subsónicos.
+// #### ID: 85
+Índice de Música
+// #### ID: 86
+Playlist
+// #### ID: 87
+Maestro
+// #### ID: 88
+320 kbps
+// #### ID: 89
+88
+// #### ID: 90
+Etiquetas ID3 en lugar de carpetas
+// #### ID: 91
+Canciones al azar de la carpeta de música actual
+// #### ID: 92
+Duración
+// #### ID: 93
+Ajustes
+// #### ID: 94
+Álbum - artista
+// #### ID: 95
+AbyghXIL
+// #### ID: 96
+Descarga de
+// #### ID: 97
+Directorio
+// #### ID: 98
+-: -
+// #### ID: 99
+Barajada
