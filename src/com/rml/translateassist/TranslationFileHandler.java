@@ -3,12 +3,13 @@ package com.rml.translateassist;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
+import java.io.UnsupportedEncodingException;
 
 public abstract class TranslationFileHandler {
 
 	private static final String FILE_FOR_TRANSLATION_SUFFIX = "_for_translation.txt";
 	private static final String INPUT_WITH_IDS_SUFFIX = "_with_translation_ids.txt";
-	public static final String AUTO_TRANSLATE_ID_LINE = "//####ID";
+	public static final String AUTO_TRANSLATE_ID_LINE = "//########";
 
 	public String getValueFromKeyValueLine(String line) {
 		// third quote
@@ -35,12 +36,28 @@ public abstract class TranslationFileHandler {
 	
 	public boolean isAutoTranslateIDLine(String line) {
 		if (line != null) {
-			if (line.startsWith(AUTO_TRANSLATE_ID_LINE)) {
+			String lineUpper = line.toUpperCase();
+			if (lineUpper.startsWith(AUTO_TRANSLATE_ID_LINE)) {
 				return true;
 			}
-			if (line.replaceAll("\\s+", "").startsWith(AUTO_TRANSLATE_ID_LINE)){
+			String lineNoSpace = lineUpper.replaceAll("\\s+", "");
+			if (lineNoSpace.startsWith(AUTO_TRANSLATE_ID_LINE)){
 				return true;
 			}
+			byte[] b = lineUpper.getBytes();
+			String newLine;
+			try {
+				newLine = new String(b, "UTF-8");
+				String newLineNoSpace = newLine.replace("\\s+", "");
+				if (newLineNoSpace.startsWith(AUTO_TRANSLATE_ID_LINE)){
+					return true;
+				}
+			} catch (UnsupportedEncodingException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+			
 		}
 		return false;
 	}
@@ -62,7 +79,7 @@ public abstract class TranslationFileHandler {
 	}
 	
 	protected String createTranslateIDFor(int translationIDCounter) {
-		return AUTO_TRANSLATE_ID_LINE + ":" + translationIDCounter;
+		return AUTO_TRANSLATE_ID_LINE + translationIDCounter;
 	}
 
 	protected void deleteFile(String filename) {

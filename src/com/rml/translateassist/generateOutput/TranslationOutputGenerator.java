@@ -58,7 +58,7 @@ public class TranslationOutputGenerator extends TranslationFileHandler {
 			TranslationSourceGenerator sourceGenerator = new TranslationSourceGenerator(
 					this.inputSourceFile);
 			sourceGenerator.createTranslateIDsFile();
-			System.out.println("Regenerated source file with translation IDs");
+			// System.out.println("Regenerated source file with translation IDs");
 		}
 	}
 
@@ -95,7 +95,7 @@ public class TranslationOutputGenerator extends TranslationFileHandler {
 		while ((line = translations.readLine()) != null) {
 			if (isAutoTranslateIDLine(line)) {
 				// Google translate adds in spaces so remove
-				currentAutoTranslateLine = line.replaceAll("\\s+", "");
+				currentAutoTranslateLine = line.replaceAll("\\s+", "").toUpperCase();
 			} else {
 				// It can only be a translation
 				if (currentAutoTranslateLine == null) {

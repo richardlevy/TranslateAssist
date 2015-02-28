@@ -49,8 +49,8 @@ public class TranslationSourceGenerator extends TranslationFileHandler{
 		bw.close();
 		System.out.println("Generated translationID count = "
 				+ translationIDCounter);
-		System.out.println("Temporary source file written to : "
-				+ createFilenameForAddedTranslationIDs(this.inputFile));
+		// System.out.println("Temporary source file written to : "
+		//		+ createFilenameForAddedTranslationIDs(this.inputFile));
 	}
 
 	public void generateSourceForTranslation() throws IOException {
