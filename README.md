@@ -37,5 +37,5 @@ Google Translate is an automated service and is not aware of the context of your
 
 * Don't use parameterised strings (i.e %@) because you will have to manually edit the translations
 * Don't use escaped characters  (e.g \n or \t).  Google will turn a "\n" into "\ N" and you will have to edit your translations
-* If converting to a language such a Chinese, cuting and pasting the translation results may result in a different character set (other than UTF-16) being used.  TranslateAssist will not then be able to match up the translated strings to the original strings.  In this case, instead of cutting and pasting the translations, view the page source and copy that (removing the <pre> </pre> tags).
+* If converting to a language such a Chinese, cuting and pasting the translation results may result in a different character set (other than UTF-16) being used.  TranslateAssist will not then be able to match up the translated strings to the original strings.  In this case, instead of cutting and pasting the translations, view the page source and copy that (removing the pre HTML tags).
 
